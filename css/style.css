@@ -51,7 +51,7 @@ Table of Content:
 
 #first-exemple.modal{
 	display: block;
-	position: relative;
+	position: static;
 }
 
 a {
