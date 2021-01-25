@@ -49,6 +49,11 @@ Table of Content:
   margin: 0px;
   padding: 0px; }
 
+#first-exemple.modal{
+	display: block;
+	position: relative;
+}
+
 a {
   text-decoration: none;
   transition: all 0.3s ease-in-out; }
